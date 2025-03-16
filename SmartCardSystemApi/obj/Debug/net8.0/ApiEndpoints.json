@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SmartCardSystemApi.Controllers.SmartCardController",
+    "Method": "Get",
+    "RelativePath": "SmartCard/GetUsersAccess",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lvl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

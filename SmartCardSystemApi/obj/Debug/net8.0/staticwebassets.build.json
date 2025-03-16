@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V5WHhlIU958YgzPRA6kozxK27EQD4ym24MxmVbV0+gs=",
+  "Source": "SmartCardSystemApi",
+  "BasePath": "_content/SmartCardSystemApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
